@@ -4,6 +4,6 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.bvr.models.Car;
 
-public interface CarMongoRepository extends CrudRepository<Car, String>{
+public interface CarMongoRepository extends CrudRepository<Car, String> {
 
 }

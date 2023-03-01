@@ -17,7 +17,8 @@ public class CarController {
 	public CarController() {
 		// TODO Auto-generated constructor stub
 	}
-
+	
+	
 	@Autowired
 	CarMongoRepository carRepository;
 	
@@ -30,9 +31,11 @@ public class CarController {
 		return "home";
 	}
 	
-	@RequestMapping(value="/addCar", method=RequestMethod.POST)
+	
+	@RequestMapping(value = "/addCar", method= RequestMethod.POST)
 	public String addCar(@ModelAttribute Car car) {
 		carRepository.save(car);
 		return "redirect:home";
 	}
+
 }

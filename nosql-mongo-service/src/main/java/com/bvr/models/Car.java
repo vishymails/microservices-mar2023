@@ -6,17 +6,14 @@ import org.springframework.data.mongodb.core.mapping.Document;
 public class Car {
 
 	public Car() {
-		super();
 		// TODO Auto-generated constructor stub
 	}
-	
 	
 	private String id;
 	private String make;
 	private String model;
 	private String description;
 	private Integer year;
-	
 	public String getId() {
 		return id;
 	}
