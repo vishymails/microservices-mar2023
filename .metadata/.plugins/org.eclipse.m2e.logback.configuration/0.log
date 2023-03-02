@@ -1268,3 +1268,42 @@
 2023-03-02 14:43:22,886 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-02 14:43:22,886 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-03-02 14:43:22,886 [Worker-261: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\movie-catalog-service\src\test\resources
+2023-03-02 15:31:35,132 [Worker-282: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:actuator-service:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\actuator-service\pom.xml.
+2023-03-02 15:31:35,367 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/main/java
+2023-03-02 15:31:35,367 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:31:35,372 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:31:35,380 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/test/java
+2023-03-02 15:31:35,606 [Worker-282: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-02 15:31:35,608 [Worker-282: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-02 15:31:35,782 [Worker-282: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:actuator-service:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\actuator-service\pom.xml.
+2023-03-02 15:31:36,039 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/main/java
+2023-03-02 15:31:36,039 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:31:36,039 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:31:36,039 [Worker-282: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/test/java
+2023-03-02 15:31:36,289 [Worker-282: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-03-02 15:31:36,574 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:31:36,574 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:31:36,580 [Worker-276: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
+2023-03-02 15:32:07,554 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:32:07,562 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:32:07,566 [Worker-270: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
+2023-03-02 15:32:41,767 [Worker-281: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:actuator-service:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\actuator-service\pom.xml.
+2023-03-02 15:32:42,013 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:32:42,013 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:32:42,017 [Worker-281: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
+2023-03-02 15:32:43,253 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:32:43,256 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:32:43,260 [Worker-283: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
+2023-03-02 15:32:43,519 [Worker-270: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-02 15:32:43,632 [Worker-270: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:actuator-service:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\actuator-service\pom.xml.
+2023-03-02 15:32:43,833 [Worker-270: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/main/java
+2023-03-02 15:32:43,833 [Worker-270: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:32:43,834 [Worker-270: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /actuator-service/src/main/resources
+2023-03-02 15:32:43,834 [Worker-270: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /actuator-service/src/test/java
+2023-03-02 15:32:44,053 [Worker-270: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-03-02 15:32:44,405 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:32:44,406 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:32:44,408 [Worker-282: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
+2023-03-02 15:37:20,055 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-02 15:37:20,061 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-02 15:37:20,066 [Worker-285: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\actuator-service\src\test\resources
