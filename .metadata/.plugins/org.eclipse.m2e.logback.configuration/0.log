@@ -1386,3 +1386,69 @@
 2023-03-02 16:38:23,721 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-02 16:38:23,721 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-03-02 16:38:23,721 [Worker-295: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\movie-catalog-service\src\test\resources
+2023-03-03 09:51:26,033 [Worker-287: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:circuitbreaker-resilience4j:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\pom.xml.
+2023-03-03 09:51:27,868 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/main/java
+2023-03-03 09:51:27,869 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:27,874 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:27,879 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/test/java
+2023-03-03 09:51:30,698 [Worker-287: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-03-03 09:51:30,700 [Worker-287: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 09:51:30,839 [Worker-287: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:circuitbreaker-resilience4j:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\pom.xml.
+2023-03-03 09:51:31,195 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/main/java
+2023-03-03 09:51:31,196 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:31,196 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:31,196 [Worker-287: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/test/java
+2023-03-03 09:51:31,854 [Worker-287: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-03-03 09:51:32,253 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:51:32,254 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:32,257 [Worker-300: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:51:54,629 [Worker-311: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:circuitbreaker-resilience4j:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\pom.xml.
+2023-03-03 09:51:55,157 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:55,157 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:55,160 [Worker-311: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:51:56,378 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:51:56,382 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:56,385 [Worker-303: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:51:56,402 [Worker-311: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 09:51:56,533 [Worker-311: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bvr:circuitbreaker-resilience4j:0.0.1-SNAPSHOT @ C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\pom.xml.
+2023-03-03 09:51:56,888 [Worker-311: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/main/java
+2023-03-03 09:51:56,888 [Worker-311: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:56,888 [Worker-311: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /circuitbreaker-resilience4j/src/main/resources
+2023-03-03 09:51:56,889 [Worker-311: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /circuitbreaker-resilience4j/src/test/java
+2023-03-03 09:51:57,183 [Worker-311: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-03-03 09:51:57,459 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:51:57,463 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:51:57,466 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:55:39,325 [Worker-317: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:55:39,328 [Worker-317: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:55:39,331 [Worker-317: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:56:36,719 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:56:36,723 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:56:36,728 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 09:57:41,495 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 09:57:41,503 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 09:57:41,508 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:00:07,776 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:00:07,782 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:00:07,788 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:00:56,783 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:00:56,787 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:00:56,791 [Worker-316: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:01:58,161 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:01:58,168 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:01:58,172 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:07:27,882 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:07:27,886 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:07:27,889 [Worker-320: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:08:12,025 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:08:12,033 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:08:12,038 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:08:38,692 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:08:38,698 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:08:38,702 [Worker-321: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:15:50,618 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:15:50,624 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:15:50,630 [Worker-319: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
+2023-03-03 10:21:12,750 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 10:21:12,756 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 10:21:12,760 [Worker-323: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\CLASSROOM\MICROSERVICES\circuitbreaker-resilience4j\src\test\resources
