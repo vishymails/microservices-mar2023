@@ -14,6 +14,6 @@ public class FirstController {
 
 	@GetMapping("/message")
 	public String test() {
-		return "Hello Api gateway demo - employee Service";
+		return "Hello Api demo called in First Service";
 	}
 }

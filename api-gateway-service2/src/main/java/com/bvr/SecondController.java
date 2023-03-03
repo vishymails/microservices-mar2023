@@ -12,9 +12,8 @@ public class SecondController {
 		// TODO Auto-generated constructor stub
 	}
 
-
 	@GetMapping("/message")
 	public String test() {
-		return "Hello Api gateway demo - consumer Service";
+		return "Hello Api demo called in Second Service";
 	}
 }
